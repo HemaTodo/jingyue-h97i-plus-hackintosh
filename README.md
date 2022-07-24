@@ -1,1 +1,1 @@
-# jingyue-h97i-plus-hackintosh
+# JINGYUE H97I-PLUS Hackintosh OpenCore EFI
